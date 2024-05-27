@@ -1,0 +1,36 @@
+
+	Example of Building a VCD with VCD Toolkit on the PC.
+
+
+1:	Start VCD Toolkit by double clicking on the VCD Toolkit icon.
+
+2:	Select File from the menu bar and then select New.
+
+3:	Select the VCD Application directory by clicking on browse and selecting the
+	VCD_APP directory on the CD.
+
+4:	Fill in an album name, publisher and preparer.
+
+5:	Click OK.
+
+6:	Click on Add volume.
+
+7:	Click on OK to accept the default volume, copyright, abstract, and bibiography.
+
+8:	Click on Add track.
+
+9:	Browse to the \samples\mmd directory on the CD and select several tracks by 
+	clicking on them with the control key held down.
+
+10:	Click on OK.
+
+11:	Click on OK to build the disc.
+
+12:	Answer no to the save project dialog.
+
+13:	Select a location and name for the output image (it will default to untitled.cd).
+
+14:	Click on OK.
+
+15:	The disc image will them be built where specified.
+
